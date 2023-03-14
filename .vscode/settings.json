@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/008644f8-c023-4b20-9340-60c05a60fd0d/resourceGroups/AzResourceGroup/providers/Microsoft.Web/sites/AzWebAppTrial",
+    "appService.deploySubpath": "."
+}
